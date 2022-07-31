@@ -130,3 +130,18 @@ footer {
     justify-content: center;
     align-items: center;
     }
+
+/* gallery */
+
+#photos {
+    clear: both;
+    margin: 25px 100px;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+
+}
+
+#photos >img {
+    width: 100%;
+}
