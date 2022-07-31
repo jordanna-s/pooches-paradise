@@ -57,6 +57,11 @@ nav li {
     flex-shrink: 1;
     }
 
+.active {
+    text-decoration: underline;
+    color: rgb(65, 70, 61);
+}
+
 /* image */
 
 .main_image {
