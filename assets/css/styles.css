@@ -179,3 +179,20 @@ footer {
     font-family: 'Edu SA Beginner', sans-serif;
     font-size: 20px;
     }
+
+/* contact us */
+
+#contact-page {
+    display: flex;
+    margin: 30px 80px;
+    font-family: 'Edu SA Beginner', sans-serif;
+}
+
+#contact-page div {
+    background-color: rgb(65, 3, 56);
+    color: rgb(221, 255, 212);
+    border: solid rgb(221, 255, 212) 3px;
+    width: 100%;
+    padding: 20px;
+    margin: 20px;
+}
