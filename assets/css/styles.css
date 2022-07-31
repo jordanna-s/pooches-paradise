@@ -80,13 +80,39 @@ li a:hover {
     color: rgb(65, 70, 61);
     }   
 
+/* Welcome Text Area*/
 .welcome {
-        font-family: 'Edu SA Beginner', sans-serif;
-        color: rgb(97 84 159);
-        font-size: 20px;
-        margin: 0px 100px 75px 100px;
-        font-weight: 600;
-        background-color: rgb(221, 255, 212);
-        padding: 25px;
-        border: solid rgb(65, 3, 56) 3px;
+    font-family: 'Edu SA Beginner', sans-serif;
+    color: rgb(97 84 159);
+    font-size: 20px;
+    margin: 0px 100px 75px 100px;
+    font-weight: 600;
+    background-color: rgb(221, 255, 212);
+    padding: 25px;
+    border: solid rgb(65, 3, 56) 3px;
+    }
+
+/* Footer */
+.social-networks {
+    list-style: none;
+    height: 75px;
+    background-color: rgb(113, 114, 126);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    
+.social-networks i {
+    color: rgb(221, 255, 212);
+    font-size: 25px;
+    }
+    
+.copyright {
+    height: 75px;
+    display: flex;
+    font-family: 'Edu SA Beginner';
+    color: rgb(221, 255, 212);
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
     }
