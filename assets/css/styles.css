@@ -178,7 +178,8 @@ footer {
 #meet-the-team p {
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
-
+    text-align: center; /* cleanup */
+    margin-top: 15px;
     }
 
 /* contact us */
