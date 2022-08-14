@@ -294,9 +294,15 @@ form .button:hover {
         font-size: 20px;
     }
 
+    .copyright {
+        font-size: 11px;
+    }
+
     /*home page welcome note*/
     .welcome p {
         font-size: 15px;
     }
+
+
     
   }
