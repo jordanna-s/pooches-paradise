@@ -196,3 +196,10 @@ footer {
     padding: 40px;
     margin: 20px;
 }
+
+#contact-page h2 {
+    font-family: 'Black Han Sans', sans-serif;
+    margin-bottom: 20px;
+    font-weight: 50;
+    font-size: 30px;
+}
