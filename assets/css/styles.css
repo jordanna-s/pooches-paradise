@@ -222,3 +222,19 @@ footer {
     padding: 30px;  
     height: auto;
 }
+
+label {
+    font-size: 18px;
+}
+
+form .inputgroup {  /*all inputs*/
+    outline: none;
+    display: flex;
+    position: relative;
+    background: transparent;
+    color: rgb(65, 3, 56);
+    width: 100%;
+    font-size: 15px;
+    border-bottom: 1px solid gray;
+    margin: 5px 0px;
+}
