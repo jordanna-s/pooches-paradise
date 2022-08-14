@@ -272,3 +272,9 @@ form .button:hover {
     background-color: rgb(113, 114, 126);
     color: white;
   }
+
+  .map {
+    border: 2px solid rgb(65, 3, 56);
+    border-radius: 10px;
+    overflow: hidden;
+  }
