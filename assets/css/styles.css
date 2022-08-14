@@ -328,3 +328,27 @@ form .button:hover {
     }
     
   }
+
+  @media screen and (max-width: 950px) {
+
+    /* main heading and menu */
+    .site-heading {
+        font-size: 40px;
+    }     
+    .menu a {
+        font-size: 18px;
+    }
+    nav ul {
+        margin: 0px 60px 20px 60px;
+        padding: 10px;
+    }
+
+    /*home page*/
+    .main_image {
+        margin: 0 60px 25px;
+    }
+    .welcome p {
+        margin: 0 60px 20px 60px;
+    }
+
+}
