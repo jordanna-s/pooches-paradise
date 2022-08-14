@@ -28,8 +28,23 @@
             </section>
         </header>
         <section id="contact-page">
-            <div>
+            <div class="contact">
                 <h2>Contact Form</h2>
+                    <form id="contact" action="https://formdump.codeinstitute.net" method="POST">
+                        <label for="fname">First Name:*</label>
+                        <input class="inputgroup" type="text" required id="fname" name="fname" placeholder="Your first name.."><br>
+
+                        <label for="lname">Last Name:*</label>
+                        <input class="inputgroup" type="text" required id="lname" name="lname" placeholder="Your last name.."><br>
+
+                        <label for="email">Email Address:*</label>
+                        <input class="inputgroup" type="email" required id="email" name="email" placeholder="Your email address.."><br>
+
+                        <label for="message">Your Message:*</label>
+                        <textarea class="inputgroup" required name="message" placeholder="Type your message here.." rows="5"></textarea>
+
+                        <input class="button" type="submit" value="Send Message">
+                    </form>  
             </div>
             <div>
                 <h2>Find us here</h2>
