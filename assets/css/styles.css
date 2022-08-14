@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Edu+SA+Beginner&display=swap'); /* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Open+Sans:wght@400;500;600&display=swap'); /* Google Fonts */
 
 * {
     margin: 0;
@@ -88,7 +88,7 @@ li a:hover {
 /* Welcome Text Area*/
 
 .welcome {
-    font-family: 'Edu SA Beginner', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: rgb(97 84 159);
     font-size: 20px;
     margin: 0px 100px 75px 100px;
@@ -125,7 +125,7 @@ footer {
 .copyright {
     height: 75px;
     display: flex;
-    font-family: 'Edu SA Beginner';
+    font-family: font-family: 'Open Sans', sans-serif;
     color: rgb(221, 255, 212);
     font-size: 15px;
     justify-content: center;
@@ -176,8 +176,9 @@ footer {
     }
 
 #meet-the-team p {
-    font-family: 'Edu SA Beginner', sans-serif;
-    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+
     }
 
 /* contact us */
@@ -185,7 +186,7 @@ footer {
 #contact-page {
     display: flex;
     margin: 30px 80px;
-    font-family: 'Edu SA Beginner', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .contact, .findus {
@@ -249,5 +250,25 @@ textarea {
     position: relative;
     overflow: none;
     resize: vertical;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Open Sans', sans-serif;
 }
+
+form .button { /*submit button*/
+    margin-top: 30px;
+    padding: 10px;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    background-color: rgb(221, 255, 212);
+    color: black;
+    height: 60px;
+    width: 150px;
+    border: solid 2px rgb(65, 3, 56);
+    border-radius: 5px;
+    text-align: center;
+}
+
+form .button:hover {
+    background-color: rgb(113, 114, 126);
+    color: white;
+  }
