@@ -188,11 +188,11 @@ footer {
     font-family: 'Edu SA Beginner', sans-serif;
 }
 
-#contact-page div {
-    background-color: rgb(65, 3, 56);
+.contact, .findus {
+    background: linear-gradient(35deg, rgb(221, 255, 212) 0%, rgb(65, 3, 56) 100%);
     color: rgb(221, 255, 212);
     border: solid rgb(221, 255, 212) 3px;
     width: 100%;
-    padding: 20px;
+    padding: 40px;
     margin: 20px;
 }
