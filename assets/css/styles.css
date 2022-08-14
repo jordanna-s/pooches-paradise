@@ -238,3 +238,16 @@ form .inputgroup {  /*all inputs*/
     border-bottom: 1px solid gray;
     margin: 5px 0px;
 }
+
+textarea {
+    max-height: 250px;
+    min-height: 40px;
+    resize: vertical;
+    border: solid 1px rgb(113, 114, 126);
+    border-radius: 3px;
+    display: block;
+    position: relative;
+    overflow: none;
+    resize: vertical;
+    font-family: 'Courier New', Courier, monospace;
+}
