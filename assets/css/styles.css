@@ -87,7 +87,7 @@ li a:hover {
 
 /* Welcome Text Area*/
 
-.welcome {
+.welcome p {
     font-family: 'Open Sans', sans-serif;
     color: rgb(97 84 159);
     font-size: 20px;
@@ -279,4 +279,19 @@ form .button:hover {
     border: 2px solid rgb(65, 3, 56);
     border-radius: 10px;
     overflow: hidden;
+  }
+
+/* media queries */
+
+@media screen and (max-width: 1200px) {
+    .site-heading {
+        font-size: 55px;
+    }
+        
+    .menu a {
+        font-size: 20px;
+    }
+
+    
+    
   }
