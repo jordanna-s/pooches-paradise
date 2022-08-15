@@ -364,6 +364,22 @@ form .button:hover {
         font-size: 25px;
         text-align: center;
     }
+
+    /*ISPCA section*/
+    .ispca div {
+        height: 300px;
+        margin-bottom: 70px;
+    }
+    
+    .video {
+        max-height: 300px;
+    }
+    
+    .donate p {
+        font-size: 15px;
+        padding: 25px;
+        max-height: 100%;
+    }    
     
   }
 
@@ -387,6 +403,38 @@ form .button:hover {
     }
     .welcome p {
         margin: 0 60px 20px 60px;
+    }
+
+    /*ISPCA section*/
+
+    .ispca {
+        display: inline;
+        margin: 0px 0px 0px 0px;
+        width: 100%;
+    }
+
+    .ispca div {
+        margin: 0px 0px 30px 0px;
+        width: 100%;
+    }
+
+    .video {
+        max-width: 100%;
+        margin: 0px 150px 0px 0px;;
+    }
+
+    .video iframe {
+        /* max-width: 100%; */
+        margin: 0px 60px 15px 60px;
+    }
+    
+    .donate p {
+        max-width: 100%;
+        margin: 30px 60px 30px 60px;
+        padding: 15px;
+        border: solid rgb(65, 3, 56) 3px;
+        text-align: center;
+        height: auto;
     }
 
     /*gallery*/
