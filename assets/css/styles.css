@@ -70,6 +70,7 @@ nav li {
     overflow: none;
     border: solid rgb(65, 3, 56) 3px;
     animation: fadeIn 3s;
+    font-size: 0;
     }
 
     @keyframes fadeIn {
