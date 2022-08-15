@@ -372,7 +372,7 @@ form .button:hover {
         margin-right: 120px;
     }
     .member {
-        border: solid rgb(65, 3, 56) 2px;
+        border: solid rgb(65, 3, 56) 3px;
         display: inline-block;
         max-width: 100%;
         height: auto;
