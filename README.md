@@ -87,8 +87,10 @@ The footer contains social media links to Facebook, Instagram, Twitter and Youtu
 ### Validator Testing
 
 - HTML W3C Validator
+    <img src="assets/images/readmeimages/htmlvalidator.JPG"/>
 
 - CSS W3C Validator
+    
 
 - Accessibility using Lighthouse in Dev Tools
 
