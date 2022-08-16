@@ -93,6 +93,7 @@ The footer contains social media links to Facebook, Instagram, Twitter and Youtu
     <img src="assets/images/readmeimages/cssvalidator.JPG"/>
 
 - Accessibility using Lighthouse in Dev Tools
+
     <img src="assets/images/readmeimages/accessibility.JPG"/>
 ------
 ## Deployment
