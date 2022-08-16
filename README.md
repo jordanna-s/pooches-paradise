@@ -7,7 +7,7 @@ The deployed website can be viewed here: [Pooches Paradise](https://jordanna-s.g
 
 <img src="assets/images/readmeimages/homepage.JPG"/>
 
----
+
 ## UX
 The user wants to: 
 
@@ -47,3 +47,15 @@ The Meet the Team section provides a more personable and friendly vibe.  It is a
 <img src="assets/images/readmeimages/team.JPG"/>
 
 ### Contact Us
+
+The Contact Us page has a contact form which includes fields for first name, last name, email address and message.  There is also a map with the business location on the right of the page.
+
+<img src="assets/images/readmeimages/contact.JPG"/>
+
+### Footer 
+
+The footer contains social media links to Facebook, Instagram, Twitter and Youtube.  When clicked on, the social media site opens in a new tab.
+
+<img src="assets/images/readmeimages/footer.JPG"/>
+
+----
