@@ -59,3 +59,34 @@ The footer contains social media links to Facebook, Instagram, Twitter and Youtu
 <img src="assets/images/readmeimages/footer.JPG"/>
 
 ----
+
+## Testing
+
+- I tested the site on different browsers and checked that all links are working (Chrome and Edge).
+- I confirmed that all text is in a clear format and easy to read.
+- I confirmed that the colours used complimented each other and had a good contrast.
+- I confirmed the contact form is working correctly, each field is mandatory and the email address field will only accept an email address format.
+- I checked responsiveness and added media queries for different screen sizes.
+
+### Bugs
+
+#### Solved Bugs
+
+- There was a space showing between the bottom of the main picture on the home page and the bottom border around the image.  To resolve this I added code:
+
+    `font-size:0; to main_image class in styles.css`
+
+#### Unfixed Bugs
+
+- There is empty space showing under the footer for certain screen sizes.
+- Video is outside margin on smaller screens
+
+### Validator Testing
+
+- HTML W3C Validator
+
+- CSS W3C Validator
+
+- Accessibility using Lighthouse in Dev Tools
+
+    <img src="assets/images/readmeimages/accessibility.JPG"/>
