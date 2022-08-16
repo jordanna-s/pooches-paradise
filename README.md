@@ -90,8 +90,26 @@ The footer contains social media links to Facebook, Instagram, Twitter and Youtu
     <img src="assets/images/readmeimages/htmlvalidator.JPG"/>
 
 - CSS W3C Validator
-    
+    <img src="assets/images/readmeimages/cssvalidator.JPG"/>
 
 - Accessibility using Lighthouse in Dev Tools
-
     <img src="assets/images/readmeimages/accessibility.JPG"/>
+------
+## Deployment
+The site was deployed to GitHub Pages.
+1. In the GitHub Repository I clicked on the settings tab.
+2. I selected Pages on the left sidebar.
+3. I then selected the main branch and saved.
+4. It then provided me with a link to the website.
+
+You can visit the website here: [Pooches Paradise](https://jordanna-s.github.io/pooches-paradise/)
+
+------
+## Credits
+- Video: https://www.youtube.com/watch?v=wDOntFcZg-I
+- Fonts from: Google Fonts
+- Background Pattern from: https://heropatterns.com/ 
+- Learned ‘fade-in’ animation here: https://blog.hubspot.com/website/css-fade-in#:~:text=In%20the%20CSS%2C%20use%20the,creates%20the%20fade%2Din%20effect. 
+- Resized images on: https://cloudinary.com/ 
+- Got map link from Google Maps
+- Images from AmIResponsive, Pexels, Unsplash and FreePik.
