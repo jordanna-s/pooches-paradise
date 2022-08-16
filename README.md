@@ -32,6 +32,18 @@ The user wants to:
 1. The Welcome Note on the Home Page introduces the business to the user, outlines what they do, what they can find on the website and a contact number.
 2. There is also a section as they support ISPCA with a video and some information relating to that.
 
-<img src="assets/images/readmeimages/welcome.jpg"/>
+<img src="assets/images/readmeimages/welcome.JPG"/>
 
+### Gallery
 
+The Gallery shows a picture collage of many different dogs that have been previously groomed at the business.  This showcases the high standard of the work that they do.  The colours are nice and bright to go with our colourful theme across the website.
+
+<img src="assets/images/readmeimages/gallerypics.JPG"/>
+
+### Meet the Team
+
+The Meet the Team section provides a more personable and friendly vibe.  It is a small team and is an introduction to each team member to get to know them a little better and also see how much experience they have.  It is always nice to put a face to the people you may be dealing with.
+
+<img src="assets/images/readmeimages/team.JPG"/>
+
+### Contact Us
