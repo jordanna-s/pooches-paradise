@@ -75,6 +75,9 @@ The footer contains social media links to Facebook, Instagram, Twitter and Youtu
 - There was a space showing between the bottom of the main picture on the home page and the bottom border around the image.  To resolve this I added code:
 
     `font-size:0; to main_image class in styles.css`
+- Error: Bad value 100% for attribute width on element img: Expected a digit but saw % instead.  I removed the size attributes in the main image code in the html (home page).
+
+- Attribute autoplay not allowed on element iframe at this point. From line 46, column 17; to line 46, column 263.  I fixed by removing this attribute.
 
 #### Unfixed Bugs
 
