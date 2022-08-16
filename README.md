@@ -1,7 +1,7 @@
 # Pooches Paradise
 Code Institute - Project 1 - HTML and CSS
 
-Pooches Paradise is a website advertising a dog-grooming business.  People who visit the website will find all they need to know about this business. Pages include a Home page with a welcome not and contact number, a gallery showcasing previous groomed dogs, a page introducing the team, and a contact page with a contact form and map showing the location.
+Pooches Paradise is a website advertising a dog-grooming business.  People who visit the website will find all they need to know about this business. Pages include a Home page with a welcome note and contact number, a gallery showcasing previous groomed dogs, a page introducing the team, and a contact page with a contact form and map showing the location.
 
 The deployed website can be viewed here: [Pooches Paradise](https://jordanna-s.github.io/pooches-paradise/)
 
@@ -27,5 +27,11 @@ The user wants to:
 
 <img src="assets/images/readmeimages/navigation.JPG"/>
 
-------
+### Welcome Note
+
+1. The Welcome Note on the Home Page introduces the business to the user, outlines what they do, what they can find on the website and a contact number.
+2. There is also a section as they support ISPCA with a video and some information relating to that.
+
+<img src="assets/images/readmeimages/welcome.jpg"/>
+
 
